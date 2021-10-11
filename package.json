@@ -1,0 +1,17 @@
+{
+  "name": "lexicon",
+  "version": "1.0.0",
+  "description": "Language learning discord app with various bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "language",
+    "english",
+    "bot"
+  ],
+  "author": "Guilherme Simoes",
+  "license": "MIT"
+}
